@@ -1,0 +1,25 @@
+{
+  "macroName": "mathome_curl_test",
+  "tactics": [
+    "grind"
+  ],
+  "leanSource": "macro \"mathome_curl_test\" : tactic => `(tactic| grind)",
+  "level": 0,
+  "goalMatching": {
+    "exact": [
+      "Eq[Nat]"
+    ],
+    "generalized": [
+      "Eq[*]"
+    ],
+    "excludes": []
+  },
+  "metadata": {
+    "confidence": 0.5,
+    "useCount": 1,
+    "discoveredBy": [
+      "test-curl"
+    ],
+    "toolchainId": "unknown"
+  }
+}
