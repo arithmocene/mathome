@@ -1,0 +1,25 @@
+{
+  "macroName": "mathome_relay_test_8581",
+  "tactics": [
+    "grind"
+  ],
+  "leanSource": "macro \"mathome_relay_test_8581\" : tactic => `(tactic| grind)",
+  "level": 0,
+  "goalMatching": {
+    "exact": [
+      "Eq[Nat]"
+    ],
+    "excludes": [],
+    "generalized": [
+      "Eq[*]"
+    ]
+  },
+  "metadata": {
+    "confidence": "0.900000",
+    "useCount": 1,
+    "discoveredBy": [
+      "F8974A42"
+    ],
+    "toolchainId": "leanprover/lean4:v4.26.0"
+  }
+}
