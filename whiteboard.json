@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "goalHash": "12345",
+      "resolvedNames": [
+        "Nat.add_comm"
+      ],
+      "solver": "grind?",
+      "timeMs": 100,
+      "mathlib_commit": "test"
+    }
+  ]
+}
